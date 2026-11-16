@@ -1,0 +1,40 @@
+{
+  "id": "h3xlymp8rs",
+  "name": {
+    "tr": "Brief",
+    "en": "Brief",
+    "ar": "الموجز"
+  },
+  "description": {
+    "tr": "Paket önerisi ve brief gönderimi (demo).",
+    "en": "Package suggestion and brief sending (demo).",
+    "ar": "اقتراح الباقة وإرسال الموجز (تجريبي)."
+  },
+  "keyword": {
+    "tr": "brief, teklif",
+    "en": "brief, quote",
+    "ar": "موجز، عرض سعر"
+  },
+  "path": "teklif-al",
+  "icon": "request_quote",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "jh4v3g",
+      "uaucf6"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Brief",
+    "en": "Brief",
+    "ar": "الموجز"
+  },
+  "date": "2026-11-16T15:59:58.989Z",
+  "update": "2026-11-16T16:10:40.874Z"
+}

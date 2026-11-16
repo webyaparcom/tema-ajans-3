@@ -1,0 +1,40 @@
+{
+  "id": "cqb3g6ph5c",
+  "name": {
+    "tr": "Paketler",
+    "en": "Packages",
+    "ar": "الباقات"
+  },
+  "description": {
+    "tr": "Başlangıç, yenileme, kampanya ve video paketleri.",
+    "en": "Starter, refresh, campaign and video packages.",
+    "ar": "باقات البداية والتجديد والحملات والفيديو."
+  },
+  "keyword": {
+    "tr": "Paketler",
+    "en": "Packages",
+    "ar": "الباقات"
+  },
+  "path": "hizmetler",
+  "icon": "inventory_2",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "jh4v3g",
+      "x9c4on"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Paketler",
+    "en": "Packages",
+    "ar": "الباقات"
+  },
+  "date": "2026-11-16T15:59:58.978Z",
+  "update": "2026-11-16T16:10:40.862Z"
+}
