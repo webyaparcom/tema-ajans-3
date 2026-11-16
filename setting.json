@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Lodos Ajans: kurumsal kimlik, ambalaj, kampanya ve kısa video işleri yapan kurgusal bir kreatif ajans; önce işler. Demo site; içerik kurgusaldır.",
+    "en": "Lodos Ajans: a fictional creative agency for identity, packaging, campaigns and short video; the work comes first. Demo site; content is fictional.",
+    "ar": "لودوس أجانس: وكالة إبداعية افتراضية للهوية المؤسسية والتغليف والحملات والفيديو القصير؛ الأعمال أولًا. موقع تجريبي؛ المحتوى افتراضي."
+  },
+  "keyword": {
+    "tr": "kreatif ajans, kurumsal kimlik, ambalaj tasarımı, reklam kampanyası, kısa video, İzmir",
+    "en": "creative agency, corporate identity, packaging design, ad campaign, short video, Izmir",
+    "ar": "وكالة إبداعية، هوية مؤسسية، تصميم التغليف، حملة إعلانية، فيديو قصير، إزمير"
+  },
+  "category": "Kurumsal",
+  "name": "Lodos Ajans",
+  "domain": "ajans-3.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "inter",
+    "heading": "fraunces",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#0E7C66",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "8px",
+    "--mx-radius-md": "14px",
+    "--mx-radius-lg": "20px",
+    "--mx-radius-xl": "27px"
+  },
+  "icon": "icon.png"
+}

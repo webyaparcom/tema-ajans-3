@@ -1,0 +1,29 @@
+{
+  "name": "Lodos Ajans",
+  "short_name": "Lodos Ajans",
+  "description": "Lodos Ajans: kurumsal kimlik, ambalaj, kampanya ve kısa video işleri yapan kurgusal bir kreatif ajans; önce işler. Demo site; içerik kurgusaldır.",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0E7C66",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

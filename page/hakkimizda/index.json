@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Stüdyo",
+    "en": "Studio",
+    "ar": "الاستوديو"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 1,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "07cqr1",
+      "x9c4on"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Kurgusal markalardan mektuplar ve bir işin süreleri.",
+    "en": "Letters from fictional brands and how long a project takes.",
+    "ar": "رسائل من علامات افتراضية ومدد العمل الواحد."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Stüdyo",
+    "en": "Studio",
+    "ar": "الاستوديو"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-11-16T16:10:40.866Z",
+  "date": "2026-10-30"
+}

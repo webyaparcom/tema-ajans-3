@@ -1,0 +1,40 @@
+{
+  "id": "1qufmiyryy",
+  "name": {
+    "tr": "İşler",
+    "en": "Work",
+    "ar": "الأعمال"
+  },
+  "description": {
+    "tr": "Kurgusal markalar için kimlik, kampanya ve video işleri.",
+    "en": "Identity, campaign and video work for fictional brands.",
+    "ar": "أعمال الهوية والحملات والفيديو لعلامات افتراضية."
+  },
+  "keyword": {
+    "tr": "portfolyo, işler",
+    "en": "portfolio, work",
+    "ar": "معرض الأعمال"
+  },
+  "path": "referanslar",
+  "icon": "photo_library",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "2h2gfh",
+      "07cqr1"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "İşler",
+    "en": "Work",
+    "ar": "الأعمال"
+  },
+  "date": "2026-11-16T15:59:58.984Z",
+  "update": "2026-11-16T16:10:40.870Z"
+}

@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "id": "cqb3g6ph5c",
+      "name": {
+        "tr": "Paketler",
+        "en": "Packages",
+        "ar": "الباقات"
+      },
+      "description": {
+        "tr": "Başlangıç, yenileme, kampanya ve video paketleri.",
+        "en": "Starter, refresh, campaign and video packages.",
+        "ar": "باقات البداية والتجديد والحملات والفيديو."
+      },
+      "path": "hizmetler",
+      "icon": "inventory_2",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "jh4v3g",
+          "x9c4on"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Stüdyo",
+        "en": "Studio",
+        "ar": "الاستوديو"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "07cqr1",
+          "x9c4on"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Kurgusal markalardan mektuplar ve bir işin süreleri.",
+        "en": "Letters from fictional brands and how long a project takes.",
+        "ar": "رسائل من علامات افتراضية ومدد العمل الواحد."
+      }
+    },
+    {
+      "id": "1qufmiyryy",
+      "name": {
+        "tr": "İşler",
+        "en": "Work",
+        "ar": "الأعمال"
+      },
+      "description": {
+        "tr": "Kurgusal markalar için kimlik, kampanya ve video işleri.",
+        "en": "Identity, campaign and video work for fictional brands.",
+        "ar": "أعمال الهوية والحملات والفيديو لعلامات افتراضية."
+      },
+      "path": "referanslar",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "2h2gfh",
+          "07cqr1"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "h3xlymp8rs",
+      "name": {
+        "tr": "Brief",
+        "en": "Brief",
+        "ar": "الموجز"
+      },
+      "description": {
+        "tr": "Paket önerisi ve brief gönderimi (demo).",
+        "en": "Package suggestion and brief sending (demo).",
+        "ar": "اقتراح الباقة وإرسال الموجز (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "request_quote",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "jh4v3g",
+          "uaucf6"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 4,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "uaucf6",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon ve çalışma saatleri.",
+        "en": "Address, phone and opening hours.",
+        "ar": "العنوان والهاتف وساعات العمل."
+      }
+    }
+  ],
+  "desc": []
+}
