@@ -2,7 +2,9 @@
   "name": {
     "tr": "Stüdyo",
     "en": "Studio",
-    "ar": "الاستوديو"
+    "ar": "الاستوديو",
+    "de": "Studio",
+    "ru": "Студия"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Kurgusal markalardan mektuplar ve bir işin süreleri.",
     "en": "Letters from fictional brands and how long a project takes.",
-    "ar": "رسائل من علامات افتراضية ومدد العمل الواحد."
+    "ar": "رسائل من علامات افتراضية ومدد العمل الواحد.",
+    "de": "Briefe von fiktiven Marken und die Laufzeiten einer Arbeit.",
+    "ru": "Письма от вымышленных брендов и сроки работы."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Stüdyo",
     "en": "Studio",
-    "ar": "الاستوديو"
+    "ar": "الاستوديو",
+    "de": "Studio",
+    "ru": "Студия"
   },
   "keyword": {
     "tr": "hakkımızda",
     "en": "about",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "text": {},
   "update": "2026-11-16T16:10:40.866Z",

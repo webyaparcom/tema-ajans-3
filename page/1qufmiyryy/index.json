@@ -3,17 +3,23 @@
   "name": {
     "tr": "İşler",
     "en": "Work",
-    "ar": "الأعمال"
+    "ar": "الأعمال",
+    "de": "Arbeiten",
+    "ru": "Работы"
   },
   "description": {
     "tr": "Kurgusal markalar için kimlik, kampanya ve video işleri.",
     "en": "Identity, campaign and video work for fictional brands.",
-    "ar": "أعمال الهوية والحملات والفيديو لعلامات افتراضية."
+    "ar": "أعمال الهوية والحملات والفيديو لعلامات افتراضية.",
+    "de": "Identität, Kampagnen und Videoarbeiten für fiktive Marken.",
+    "ru": "Фирменный стиль, кампании и видеоработы для вымышленных брендов."
   },
   "keyword": {
     "tr": "portfolyo, işler",
     "en": "portfolio, work",
-    "ar": "معرض الأعمال"
+    "ar": "معرض الأعمال",
+    "de": "Portfolio, Arbeiten",
+    "ru": "портфолио, работы"
   },
   "path": "referanslar",
   "icon": "photo_library",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "İşler",
     "en": "Work",
-    "ar": "الأعمال"
+    "ar": "الأعمال",
+    "de": "Arbeiten",
+    "ru": "Работы"
   },
   "date": "2026-11-16T15:59:58.984Z",
   "update": "2026-11-16T16:10:40.870Z"
