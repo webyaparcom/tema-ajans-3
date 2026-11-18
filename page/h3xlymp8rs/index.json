@@ -3,17 +3,23 @@
   "name": {
     "tr": "Brief",
     "en": "Brief",
-    "ar": "الموجز"
+    "ar": "الموجز",
+    "de": "Brief",
+    "ru": "Бриф"
   },
   "description": {
     "tr": "Paket önerisi ve brief gönderimi (demo).",
     "en": "Package suggestion and brief sending (demo).",
-    "ar": "اقتراح الباقة وإرسال الموجز (تجريبي)."
+    "ar": "اقتراح الباقة وإرسال الموجز (تجريبي).",
+    "de": "Paketempfehlung und Briefing-Versand (Demo).",
+    "ru": "Рекомендация пакета и отправка брифа (демо)."
   },
   "keyword": {
     "tr": "brief, teklif",
     "en": "brief, quote",
-    "ar": "موجز، عرض سعر"
+    "ar": "موجز، عرض سعر",
+    "de": "Briefing, Angebot",
+    "ru": "бриф, предложение"
   },
   "path": "teklif-al",
   "icon": "request_quote",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Brief",
     "en": "Brief",
-    "ar": "الموجز"
+    "ar": "الموجز",
+    "de": "Brief",
+    "ru": "Бриф"
   },
   "date": "2026-11-16T15:59:58.989Z",
   "update": "2026-11-16T16:10:40.874Z"

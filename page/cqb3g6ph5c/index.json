@@ -3,17 +3,23 @@
   "name": {
     "tr": "Paketler",
     "en": "Packages",
-    "ar": "الباقات"
+    "ar": "الباقات",
+    "de": "Pakete",
+    "ru": "Пакеты"
   },
   "description": {
     "tr": "Başlangıç, yenileme, kampanya ve video paketleri.",
     "en": "Starter, refresh, campaign and video packages.",
-    "ar": "باقات البداية والتجديد والحملات والفيديو."
+    "ar": "باقات البداية والتجديد والحملات والفيديو.",
+    "de": "Pakete für Einstieg, Erneuerung, Kampagne und Video.",
+    "ru": "Пакеты для старта, обновления, кампании и видео."
   },
   "keyword": {
     "tr": "Paketler",
     "en": "Packages",
-    "ar": "الباقات"
+    "ar": "الباقات",
+    "de": "Pakete",
+    "ru": "Пакеты"
   },
   "path": "hizmetler",
   "icon": "inventory_2",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Paketler",
     "en": "Packages",
-    "ar": "الباقات"
+    "ar": "الباقات",
+    "de": "Pakete",
+    "ru": "Пакеты"
   },
   "date": "2026-11-16T15:59:58.978Z",
   "update": "2026-11-16T16:10:40.862Z"

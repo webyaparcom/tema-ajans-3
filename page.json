@@ -5,12 +5,16 @@
       "name": {
         "tr": "Paketler",
         "en": "Packages",
-        "ar": "الباقات"
+        "ar": "الباقات",
+        "de": "Pakete",
+        "ru": "Пакеты"
       },
       "description": {
         "tr": "Başlangıç, yenileme, kampanya ve video paketleri.",
         "en": "Starter, refresh, campaign and video packages.",
-        "ar": "باقات البداية والتجديد والحملات والفيديو."
+        "ar": "باقات البداية والتجديد والحملات والفيديو.",
+        "de": "Pakete für Einstieg, Erneuerung, Kampagne und Video.",
+        "ru": "Пакеты для старта, обновления, кампании и видео."
       },
       "path": "hizmetler",
       "icon": "inventory_2",
@@ -30,7 +34,9 @@
       "name": {
         "tr": "Stüdyo",
         "en": "Studio",
-        "ar": "الاستوديو"
+        "ar": "الاستوديو",
+        "de": "Studio",
+        "ru": "Студия"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -51,7 +57,9 @@
       "description": {
         "tr": "Kurgusal markalardan mektuplar ve bir işin süreleri.",
         "en": "Letters from fictional brands and how long a project takes.",
-        "ar": "رسائل من علامات افتراضية ومدد العمل الواحد."
+        "ar": "رسائل من علامات افتراضية ومدد العمل الواحد.",
+        "de": "Briefe von fiktiven Marken und die Laufzeiten einer Arbeit.",
+        "ru": "Письма от вымышленных брендов и сроки работы."
       }
     },
     {
@@ -59,12 +67,16 @@
       "name": {
         "tr": "İşler",
         "en": "Work",
-        "ar": "الأعمال"
+        "ar": "الأعمال",
+        "de": "Arbeiten",
+        "ru": "Работы"
       },
       "description": {
         "tr": "Kurgusal markalar için kimlik, kampanya ve video işleri.",
         "en": "Identity, campaign and video work for fictional brands.",
-        "ar": "أعمال الهوية والحملات والفيديو لعلامات افتراضية."
+        "ar": "أعمال الهوية والحملات والفيديو لعلامات افتراضية.",
+        "de": "Identität, Kampagnen und Videoarbeiten für fiktive Marken.",
+        "ru": "Фирменный стиль, кампании и видеоработы для вымышленных брендов."
       },
       "path": "referanslar",
       "icon": "photo_library",
@@ -85,12 +97,16 @@
       "name": {
         "tr": "Brief",
         "en": "Brief",
-        "ar": "الموجز"
+        "ar": "الموجز",
+        "de": "Brief",
+        "ru": "Бриф"
       },
       "description": {
         "tr": "Paket önerisi ve brief gönderimi (demo).",
         "en": "Package suggestion and brief sending (demo).",
-        "ar": "اقتراح الباقة وإرسال الموجز (تجريبي)."
+        "ar": "اقتراح الباقة وإرسال الموجز (تجريبي).",
+        "de": "Paketempfehlung und Briefing-Versand (Demo).",
+        "ru": "Рекомендация пакета и отправка брифа (демо)."
       },
       "path": "teklif-al",
       "icon": "request_quote",
@@ -110,7 +126,9 @@
       "name": {
         "tr": "İletişim",
         "en": "Contact",
-        "ar": "اتصل بنا"
+        "ar": "اتصل بنا",
+        "de": "Kontakt",
+        "ru": "Контакты"
       },
       "status": "play",
       "id": "iletisim",
@@ -131,7 +149,9 @@
       "description": {
         "tr": "Adres, telefon ve çalışma saatleri.",
         "en": "Address, phone and opening hours.",
-        "ar": "العنوان والهاتف وساعات العمل."
+        "ar": "العنوان والهاتف وساعات العمل.",
+        "de": "Adresse, Telefon und Öffnungszeiten.",
+        "ru": "Адрес, телефон и часы работы."
       }
     }
   ],
